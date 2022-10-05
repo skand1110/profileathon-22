@@ -8,26 +8,10 @@ var profiles = [
   },
 
   {
-    name: "",
-    place: "",
-    github: "",
-  },
-
-  {
-    name: "",
-    place: "",
-    github: "",
-  },
-
-
-
-
-
-
-
-
-
-
+    name: "Skand Sharma",
+    place: "Jamshedpur, Jharkhand, India",
+    github: "https://github.com/skand1110",
+  }
 
   //end of json
 ];
